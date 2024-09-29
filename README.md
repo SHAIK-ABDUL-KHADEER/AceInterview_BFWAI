@@ -7,7 +7,7 @@
 - **Real-Time Speech Recognition**: Converts spoken language into text using `SpeechRecognition`.
 - **Text-to-Speech**: Provides audible responses using `pyttsx3`.
 - **Interactive Chat**: Simulates conversations with an AI model from `google.generativeai`.
-- **File Parsing**: Extracts text from documents using `tika`.
+- **File Parsing**: Extracts text from documents using `pypdf2`.
 - **Graphical User Interface (GUI)**: Built with `tkinter` for user-friendly interactions.
 - **Image Handling**: Utilizes `PIL` for displaying and manipulating images.
 
@@ -45,7 +45,7 @@ To get started with Ace Interview, you need to install the required dependencies
    pyttsx3
    SpeechRecognition
    google-generativeai
-   tika
+   pypdf2
    tkinter
    pandas
    pillow
@@ -79,7 +79,7 @@ To get started with Ace Interview, you need to install the required dependencies
 - **pyttsx3**: Text-to-speech conversion.
 - **SpeechRecognition**: Speech-to-text conversion.
 - **google.generativeai**: Interacts with Google's generative AI model.
-- **tika**: Extracts text from various file formats.
+- **pypdf**: Extracts text from various file formats.
 - **pandas**: Data manipulation and analysis.
 - **PIL (Pillow)**: Image handling.
 
