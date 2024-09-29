@@ -1,6 +1,6 @@
 ---
 
-# **Ace Interview**
+# Ace Interview
 
 **Ace Interview** is an advanced platform designed to enhance the interview process using artificial intelligence and speech recognition technologies. The application integrates real-time speech-to-text conversion with interactive chat capabilities, providing users with an engaging and effective interview simulation experience.
 
