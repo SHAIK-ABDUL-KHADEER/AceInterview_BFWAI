@@ -1,3 +1,4 @@
+
 ---
 
 # Ace Interview
@@ -9,7 +10,7 @@
 - **Real-Time Speech Recognition**: Converts spoken language into text using `SpeechRecognition`.
 - **Text-to-Speech**: Provides audible responses using `pyttsx3`.
 - **Interactive Chat**: Simulates conversations with an AI model from `google.generativeai`.
-- **File Parsing**: Extracts text from PDF documents using `pypdf`.
+- **File Parsing**: Extracts text from documents using `tika`.
 - **Graphical User Interface (GUI)**: Built with `tkinter` for user-friendly interactions.
 - **Image Handling**: Utilizes `PIL` for displaying and manipulating images.
 
@@ -49,7 +50,7 @@ To get started with Ace Interview, you can either install it locally from source
    pyttsx3
    SpeechRecognition
    google-generativeai
-   pypdf
+   tika
    tkinter
    pandas
    pillow
@@ -67,7 +68,7 @@ To get started with Ace Interview, you can either install it locally from source
 
 For a simpler installation process, download the executable file and run the application directly without setting up the development environment.
 
-- **Download the executable file** from this [Drive link](https://drive.google.com/file/d/1fzqUVsLpO8VabHxYZgYgy7IHknXpHT2w/view?usp=sharing)
+- **Download the executable file** from this [Drive link](https://drive.google.com/file/d/1fzqUVsLpO8VabHxYZgYgy7IHknXpHT2w/view?usp=sharing).
 
 1. Download the `.exe` file.
 2. Run the file and follow the on-screen instructions to install and use the application.
@@ -90,7 +91,7 @@ For a simpler installation process, download the executable file and run the app
 - **pyttsx3**: Text-to-speech conversion.
 - **SpeechRecognition**: Speech-to-text conversion.
 - **google.generativeai**: Interacts with Google's generative AI model.
-- **pypdf**: Extracts text from PDF files.
+- **tika**: Extracts text from various file formats.
 - **pandas**: Data manipulation and analysis.
 - **PIL (Pillow)**: Image handling.
 
