@@ -68,7 +68,7 @@ To get started with Ace Interview, you can either install it locally from source
 
 For a simpler installation process, download the executable file and run the application directly without setting up the development environment.
 
-- **Download the executable file** from this [Drive link](#) (replace `#` with the actual link).
+- **Download the executable file** from this [Drive link](https://drive.google.com/file/d/1fzqUVsLpO8VabHxYZgYgy7IHknXpHT2w/view?usp=sharing)
 
 1. Download the `.exe` file.
 2. Run the file and follow the on-screen instructions to install and use the application.
