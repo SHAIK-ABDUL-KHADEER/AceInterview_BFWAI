@@ -1,24 +1,27 @@
-
 ---
 
-# Ace Interview
+# **Ace Interview**
 
 **Ace Interview** is an advanced platform designed to enhance the interview process using artificial intelligence and speech recognition technologies. The application integrates real-time speech-to-text conversion with interactive chat capabilities, providing users with an engaging and effective interview simulation experience.
 
-## Features
+---
 
-- **Real-Time Speech Recognition**: Converts spoken language into text using `SpeechRecognition`.
-- **Text-to-Speech**: Provides audible responses using `pyttsx3`.
-- **Interactive Chat**: Simulates conversations with an AI model from `google.generativeai`.
-- **File Parsing**: Extracts text from documents using `tika`.
-- **Graphical User Interface (GUI)**: Built with `tkinter` for user-friendly interactions.
-- **Image Handling**: Utilizes `PIL` for displaying and manipulating images.
+## **Features**
 
-## Installation
+- 🎤 **Real-Time Speech Recognition**: Converts spoken language into text using `SpeechRecognition`.
+- 🔊 **Text-to-Speech**: Provides audible responses using `pyttsx3`.
+- 🤖 **Interactive Chat**: Simulates conversations with an AI model from `google.generativeai`.
+- 📄 **File Parsing**: Extracts text from documents using `pypdf`.
+- 🖥️ **Graphical User Interface (GUI)**: Built with `tkinter` for user-friendly interactions.
+- 🖼️ **Image Handling**: Utilizes `PIL` for displaying and manipulating images.
 
-To get started with Ace Interview, you can either install it locally from source or download the executable file for easy setup.
+---
 
-### Option 1: Install from Source
+## **Installation**
+
+To get started with **Ace Interview**, you can either install it locally from source or download the executable file for a hassle-free setup.
+
+### **Option 1: Install from Source**
 
 1. **Clone the Repository**
 
@@ -40,7 +43,7 @@ To get started with Ace Interview, you can either install it locally from source
    pip install -r requirements.txt
    ```
 
-   Make sure the following libraries are listed in your `requirements.txt`:
+   Ensure the following libraries are listed in your `requirements.txt`:
 
    ```
    smtplib
@@ -50,7 +53,7 @@ To get started with Ace Interview, you can either install it locally from source
    pyttsx3
    SpeechRecognition
    google-generativeai
-   tika
+   pypdf
    tkinter
    pandas
    pillow
@@ -64,23 +67,27 @@ To get started with Ace Interview, you can either install it locally from source
    python main.py
    ```
 
-### Option 2: Install Using Executable File
+### **Option 2: Install Using Executable File**
 
 For a simpler installation process, download the executable file and run the application directly without setting up the development environment.
 
-- **Download the executable file** from this [Drive link](https://drive.google.com/file/d/1fzqUVsLpO8VabHxYZgYgy7IHknXpHT2w/view?usp=sharing)
+- **Download the executable file** from this [Drive link](https://drive.google.com/file/d/1fzqUVsLpO8VabHxYZgYgy7IHknXpHT2w/view?usp=sharing).
 
 1. Download the `.exe` file.
 2. Run the file and follow the on-screen instructions to install and use the application.
 
-## Usage
+---
+
+## **Usage**
 
 1. **Start Interview**: Initiates the interview simulation.
 2. **Chat with AI**: Engage in conversations with the AI model.
 3. **Voice Commands**: Use speech recognition to interact with the system.
 4. **Text-to-Speech Responses**: Hear responses from the AI.
 
-## Dependencies
+---
+
+## **Dependencies**
 
 - **smtplib**: Used for sending emails.
 - **email.mime**: Handles email creation and sending.
@@ -91,11 +98,13 @@ For a simpler installation process, download the executable file and run the app
 - **pyttsx3**: Text-to-speech conversion.
 - **SpeechRecognition**: Speech-to-text conversion.
 - **google.generativeai**: Interacts with Google's generative AI model.
-- **tika**: Extracts text from various file formats.
+- **pypdf**: Extracts text from PDF files.
 - **pandas**: Data manipulation and analysis.
 - **PIL (Pillow)**: Image handling.
 
-## Contact
+---
+
+## **Contact**
 
 For any questions or issues, please contact [sak78620@gmail.com](mailto:sak78620@gmail.com).
 
